@@ -1,3 +1,3 @@
 # CPU_Schduler
 
-![image](https://cloud.githubusercontent.com/assets/16604090/19376512/631fa048-91ac-11e6-93fe-96adbea11556.png)
+https://drive.google.com/file/d/0B8jBop96LH56ajVMa19FQm1WQjg/view?usp=sharing
