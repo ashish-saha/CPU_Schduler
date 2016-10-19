@@ -83,7 +83,7 @@ public class RR {
 			IOqueue.add(temp);
 		}
 		
-		System.out.println("\n" +"schduling algorithm " + algorithm + " with quantum " + q + " current CPU clock " + timer + " average processing time " + (totalProcessingTime/numJobs) + " average waiting time " + (totalWaitingTime/numJobs) + " average tunaround time " + (totalTurnaroundTime/numJobs));
+		System.out.println("\n" +"scheduling algorithm " + algorithm + " with quantum " + q + " current CPU clock " + timer + " average processing time " + (totalProcessingTime/numJobs) + " average waiting time " + (totalWaitingTime/numJobs) + " average turnaround time " + (totalTurnaroundTime/numJobs));
 		
 	}
 }
